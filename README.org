@@ -1,8 +1,4 @@
 * This is a translation tool written by rust
-
-** If you want to use it , you can clone the repository and use 'cargo build' to get a binary in 'target/debug',or 'cargo install rtran' from crates.io
-
+* If you want to use it , you can clone the repository and use 'cargo build' to get a binary in 'target/debug',or 'cargo install rtran' from crates.io
 * it use youdao api to translate any language to chinese or translate chinese to english
-
-
-[[file:img/rtran.png]]
+* [[file:img/rtran.png]]
